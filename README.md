@@ -31,7 +31,9 @@ Because the oneinstack is not just for drupal8,So the author of oneinstack won't
 
 这是对[oneinstack](https://oneinstack.com/)（nginx+php）的vhost配置文件的修改，从而完美运行drupal8
 
-<b>修改配置非常简单，你仅仅需要修改一个东西：域名对应的vhost配置文件 /vhost/*.config</b>
+   正常安装至结束
+   
+<b>修改配置非常简单，添加域名后，你仅仅需要按照这个项目的例子修改域名对应的vhost配置文件 /vhost/*.config</b>
 
 
 
